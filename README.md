@@ -40,7 +40,7 @@ Module-Preparation/
 └── Python-Bootcamp/          # Essential Python programming skills
 ```
 
-### Week 1: Data Foundations & Acquisition
+### Week 1: Deep Learning Foundations
 **Theme:** *Artificial Neural Networks*
 
 ```
@@ -50,7 +50,7 @@ Week-1/
 └── MLP/                       # Artificial Neural Networks: Multi-Layer Perceptron
 ```
 
-### Week 2: Analytics & Machine Learning
+### Week 2: Complex Deep Learning Architectures
 **Theme:** *Complex Neural Networks: CNN, RNN, LSTM*
 
 ```
@@ -60,7 +60,7 @@ Week-2/
 └── LSTM/                   # Long Short-Term Memory Neural Networks
 ```
 
-### Week 3: Advanced Analytics
+### Week 3: Advanced Deep Learning Architectures
 **Theme:** *Advanced Techniques*
 
 ```
